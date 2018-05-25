@@ -1,0 +1,25 @@
+{
+  "name": "twitter-api",
+  "version": "1.0.0",
+  "description": "Twitter api for diseases spread",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hilmeh",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "async-foreach": "^0.1.3",
+    "body-parser": "^1.18.2",
+    "dateformat": "^3.0.3",
+    "excel4node": "^1.3.6",
+    "express": "^4.16.3",
+    "node-xlsx": "^0.12.0",
+    "twit": "^2.2.9",
+    "twitter-api-node-express": "^0.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
